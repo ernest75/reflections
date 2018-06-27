@@ -9,3 +9,7 @@ by stagging when a logical change has been made and commit that changes afterwar
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When you want to try something you aren't sure it's going too work, to exxperiment, to work diferent areas of a program separetly.
+
+How do the diagrams help you visualize the branch structure?
+Cause youu can see all the commits in each branch
+
