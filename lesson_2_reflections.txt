@@ -3,3 +3,9 @@ A "listener" of the folder it's created to be able to make a future "snapshot" o
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area it's a middle man betwen working directory and repository. Also makes posible to undo commits b4 to commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+by stagging when a logical change has been made and commit that changes afterwards, don't wait to have a new added logical change on the stagging area.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to try something you aren't sure it's going too work, to exxperiment, to work diferent areas of a program separetly.
