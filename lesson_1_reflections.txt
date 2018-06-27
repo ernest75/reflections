@@ -1,0 +1,16 @@
+You can see what changed on the new version quicker therefore the old version it's suposed to be clear of errors so you have to inspect only the new code so less code to review and find the bug.
+
+If u can acces to the history of the code, first you can see ho the improvement evolved and also you can experiment with diferent versions.
+
+The pros of manually commit it's that you have the power to organize your history in a more logical sense, so you can save the diferent versions of your ptoject when you decide. The cons are that you are the one responsible for the commits so if you forget to do it or do it badly you can have problems.
+
+I guess Git allows to save multiple files in one commit because it's designed for progammers who use programs that can change multipe files even when you are only making one change and google docs don't cause it's suposed to control single files.
+
+How can you use the commands git log and git diff to view the history of files?
+git log to see all the commits in the repository and git diff to compare 2 commits
+
+How might using version control make you more confident to make changes that could break something?
+Cause you'll always be able to return to a commit that works well  
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Have diferent versions of my programs and experiment a bit with didferrent posibilities. 
