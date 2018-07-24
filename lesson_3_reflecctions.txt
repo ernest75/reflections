@@ -17,6 +17,9 @@ What is the benefit of having a copy of the last known state of the remote store
 
 That you can know if there's been some changes on the remote, so you can added in future commits or resolve conflicts
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without using git the only option I see will be to separate the work so there isn't conflicts, And reviewing every conflict bfore to assign one copy as the master. Honestly I don't know what would be easier, I think everything will be a bit messy and will require a lot of planification and assurance of the changes.
+
 
 
 
